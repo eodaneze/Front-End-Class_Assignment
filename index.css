@@ -103,3 +103,9 @@ body{
     margin-left: 40%;
     font-size: 25px;
 }
+.all-footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 8px;
+}
